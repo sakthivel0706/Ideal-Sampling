@@ -1,3 +1,8 @@
+# EXP 1 : IDEAL, NATURAL, & FLAT-TOP -SAMPLING
+
+# REG NO : 212224060230
+
+# NAME : SAKTHIVEL E
 # Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
